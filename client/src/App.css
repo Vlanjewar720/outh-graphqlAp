@@ -1,0 +1,11 @@
+.my-container{
+  max-width: 400px !important;
+}
+
+input:focus {
+  border-bottom: 2px solid #673ab7 !important;
+  box-shadow:none !important;
+}
+body{
+  background-color: rgb(207, 212, 212);
+}
